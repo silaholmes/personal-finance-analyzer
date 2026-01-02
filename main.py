@@ -1,8 +1,9 @@
 """
 Personal Finance Analyzer
-Author: [Your Name]
+Author: [Alaa Ayesh]
 Date: January 2, 2026
 """
+
 
 def main():
     print("Starting my ML Engineering journey!")
