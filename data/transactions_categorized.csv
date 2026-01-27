@@ -1,182 +1,182 @@
 Date,Description,Amount,Type,Balance,Category
-2024-10-26,Gas Station,-48.0,debit,7786.64,Transport
-2024-10-28,Uber,-23.5,debit,7679.26,Transport
-2024-10-28,Amazon,-89.99,debit,7589.27,Shopping
-2024-10-29,Electric Company,-125.67,debit,7463.6,Utilities
-2024-10-29,McDonald's,-18.75,debit,7444.85,Food & Drinks
-2024-10-29,Parking Garage,-15.0,debit,7429.85,Transport
-2024-10-30,Gym Membership,-45.0,debit,7384.85,Health & Wellness
-2024-10-30,Pizza Hut,-32.5,debit,7352.35,Food & Drinks
-2024-10-31,Target,-124.88,debit,7227.47,Shopping
-2024-10-31,Gas Station,-52.3,debit,7175.17,Transport
-2024-11-01,Coffee Shop,-8.25,debit,7166.92,Food & Drinks
-2024-11-01,Metro Card,-40.0,debit,7126.92,Transport
-2024-11-02,Walmart,-78.45,debit,7048.47,Shopping
-2024-11-02,Spotify,-9.99,debit,7038.48,Entertainment
-2024-11-03,Restaurant XYZ,-65.3,debit,6973.18,Food & Drinks
-2024-11-03,Uber,-18.75,debit,6954.43,Transport
-2024-11-04,Pharmacy,-34.5,debit,6919.93,Health & Wellness
-2024-11-04,Grocery Store,-92.15,debit,6827.78,Food & Drinks
-2024-11-05,Internet Provider,-89.99,debit,6737.79,Utilities
-2024-11-05,Starbucks,-14.8,debit,6722.99,Food & Drinks
-2024-11-06,Cinema,-28.0,debit,6694.99,Entertainment
-2024-11-06,Gas Station,-45.67,debit,6649.32,Transport
-2024-11-07,Subway,-12.99,debit,6636.33,Food & Drinks
-2024-11-07,Best Buy,-156.99,debit,6479.34,Shopping
-2024-11-08,Phone Bill,-65.0,debit,6414.34,Utilities
-2024-11-08,Local Cafe,-9.5,debit,6404.84,Food & Drinks
-2024-11-09,Freelance Payment,1250.0,credit,7654.84,Income
-2024-11-09,Amazon,-43.28,debit,7611.56,Shopping
-2024-11-10,Grocery Store,-56.78,debit,7554.78,Food & Drinks
-2024-11-10,Uber,-21.3,debit,7533.48,Transport
-2024-11-10,Parking Garage,-12.0,debit,7521.48,Transport
-2024-11-11,Doctor Visit,-125.0,debit,7396.48,Health & Wellness
-2024-11-11,McDonald's,-15.45,debit,7381.03,Food & Drinks
-2024-11-12,Water Company,-45.8,debit,7335.23,Utilities
-2024-11-12,Starbucks,-11.25,debit,7323.98,Food & Drinks
-2024-11-13,Target,-87.5,debit,7236.48,Shopping
-2024-11-13,Gas Station,-48.9,debit,7187.58,Transport
-2024-11-14,Pizza Hut,-38.75,debit,7148.83,Food & Drinks
-2024-11-14,Game Store,-59.99,debit,7088.84,Shopping
-2024-11-15,Salary Deposit,2847.32,credit,9936.16,Income
-2024-11-15,Grocery Store,-71.2,debit,9864.96,Food & Drinks
-2024-11-16,Metro Card,-40.0,debit,9824.96,Transport
-2024-11-16,Netflix,-15.99,debit,9808.97,Entertainment
-2024-11-17,Restaurant XYZ,-72.4,debit,9736.57,Food & Drinks
-2024-11-17,Uber,-19.85,debit,9716.72,Transport
-2024-11-18,Clothing Store,-134.99,debit,9581.73,Shopping
-2024-11-18,Coffee Shop,-7.5,debit,9574.23,Food & Drinks
-2024-11-19,Pharmacy,-28.9,debit,9545.33,Health & Wellness
-2024-11-19,Electric Company,-132.45,debit,9412.88,Utilities
-2024-11-20,Amazon,-92.67,debit,9320.21,Shopping
-2024-11-20,Gas Station,-51.25,debit,9268.96,Transport
-2024-11-21,Gym Membership,-45.0,debit,9223.96,Health & Wellness
-2024-11-21,Starbucks,-13.6,debit,9210.36,Food & Drinks
-2024-11-22,Walmart,-108.33,debit,9102.03,Shopping
-2024-11-22,Uber,-24.5,debit,9077.53,Transport
-2024-11-23,Grocery Store,-64.85,debit,9012.68,Food & Drinks
-2024-11-23,Cinema,-32.0,debit,8980.68,Entertainment
-2024-11-24,Local Cafe,-10.25,debit,8970.43,Food & Drinks
-2024-11-24,Gas Station,-46.78,debit,8923.65,Transport
-2024-11-25,Internet Provider,-89.99,debit,8833.66,Utilities
-2024-11-25,McDonald's,-16.9,debit,8816.76,Food & Drinks
-2024-11-26,Target,-95.4,debit,8721.36,Shopping
-2024-11-26,Parking Garage,-15.0,debit,8706.36,Transport
-2024-11-27,Pizza Hut,-41.25,debit,8665.11,Food & Drinks
-2024-11-27,Spotify,-9.99,debit,8655.12,Entertainment
-2024-11-28,Restaurant XYZ,-68.5,debit,8586.62,Food & Drinks
-2024-11-28,Uber,-22.4,debit,8564.22,Transport
-2024-11-29,Grocery Store,-83.7,debit,8480.52,Food & Drinks
-2024-11-29,Phone Bill,-65.0,debit,8415.52,Utilities
-2024-11-30,Refund,75.0,credit,8490.52,Income
-2024-11-30,Starbucks,-12.8,debit,8477.72,Food & Drinks
-2024-12-01,Salary Deposit,2847.32,credit,11325.04,Income
-2024-12-01,Amazon,-118.45,debit,11206.59,Shopping
-2024-12-02,Gas Station,-49.3,debit,11157.29,Transport
-2024-12-02,Grocery Store,-69.95,debit,11087.34,Food & Drinks
-2024-12-03,Metro Card,-40.0,debit,11047.34,Transport
-2024-12-03,Coffee Shop,-8.75,debit,11038.59,Food & Drinks
-2024-12-04,Doctor Visit,-150.0,debit,10888.59,Health & Wellness
-2024-12-04,McDonald's,-17.25,debit,10871.34,Food & Drinks
-2024-12-05,Water Company,-48.6,debit,10822.74,Utilities
-2024-12-05,Best Buy,-189.99,debit,10632.75,Shopping
-2024-12-06,Uber,-20.15,debit,10612.6,Transport
-2024-12-06,Starbucks,-11.9,debit,10600.7,Food & Drinks
-2024-12-07,Grocery Store,-76.4,debit,10524.3,Food & Drinks
-2024-12-07,Cinema,-35.0,debit,10489.3,Entertainment
-2024-12-08,Electric Company,-128.9,debit,10360.4,Utilities
-2024-12-08,Pizza Hut,-36.8,debit,10323.6,Food & Drinks
-2024-12-09,Target,-102.55,debit,10221.05,Shopping
-2024-12-09,Gas Station,-52.7,debit,10168.35,Transport
-2024-12-10,Freelance Payment,950.0,credit,11118.35,Income
-2024-12-10,Netflix,-15.99,debit,11102.36,Entertainment
-2024-12-11,Restaurant XYZ,-81.3,debit,11021.06,Food & Drinks
-2024-12-11,Parking Garage,-18.0,debit,11003.06,Transport
-2024-12-12,Gym Membership,-45.0,debit,10958.06,Health & Wellness
-2024-12-12,Grocery Store,-58.25,debit,10899.81,Food & Drinks
-2024-12-13,Amazon,-67.89,debit,10831.92,Shopping
-2024-12-13,Uber,-23.9,debit,10808.02,Transport
-2024-12-14,Walmart,-94.6,debit,10713.42,Shopping
-2024-12-14,Local Cafe,-9.25,debit,10704.17,Food & Drinks
-2024-12-15,Salary Deposit,2847.32,credit,13551.49,Income
-2024-12-15,Internet Provider,-89.99,debit,13461.5,Utilities
-2024-12-16,Gas Station,-47.85,debit,13413.65,Transport
-2024-12-16,Starbucks,-13.4,debit,13400.25,Food & Drinks
-2024-12-17,Pharmacy,-42.3,debit,13357.95,Health & Wellness
-2024-12-17,Grocery Store,-72.9,debit,13285.05,Food & Drinks
-2024-12-18,Phone Bill,-65.0,debit,13220.05,Utilities
-2024-12-18,McDonald's,-14.75,debit,13205.3,Food & Drinks
-2024-12-19,Clothing Store,-145.0,debit,13060.3,Shopping
-2024-12-19,Uber,-19.6,debit,13040.7,Transport
-2024-12-20,Target,-88.25,debit,12952.45,Shopping
-2024-12-20,Cinema,-28.0,debit,12924.45,Entertainment
-2024-12-21,Grocery Store,-81.5,debit,12842.95,Food & Drinks
-2024-12-21,Gas Station,-50.4,debit,12792.55,Transport
-2024-12-22,Restaurant XYZ,-74.2,debit,12718.35,Food & Drinks
-2024-12-22,Spotify,-9.99,debit,12708.36,Entertainment
-2024-12-23,Amazon,-156.78,debit,12551.58,Shopping
-2024-12-23,Coffee Shop,-10.5,debit,12541.08,Food & Drinks
-2024-12-24,Pizza Hut,-44.9,debit,12496.18,Food & Drinks
-2024-12-24,Metro Card,-40.0,debit,12456.18,Transport
-2024-12-25,Grocery Store,-95.3,debit,12360.88,Food & Drinks
-2024-12-26,Electric Company,-135.7,debit,12225.18,Utilities
-2024-12-26,Starbucks,-12.15,debit,12213.03,Food & Drinks
-2024-12-27,Uber,-21.8,debit,12191.23,Transport
-2024-12-27,Game Store,-69.99,debit,12121.24,Shopping
-2024-12-28,Walmart,-76.45,debit,12044.79,Shopping
-2024-12-28,Gas Station,-48.6,debit,11996.19,Transport
-2024-12-29,Grocery Store,-63.85,debit,11932.34,Food & Drinks
-2024-12-29,Parking Garage,-15.0,debit,11917.34,Transport
-2024-12-30,McDonald's,-16.3,debit,11901.04,Food & Drinks
-2024-12-30,Water Company,-46.2,debit,11854.84,Utilities
-2024-12-31,Restaurant XYZ,-89.5,debit,11765.34,Food & Drinks
-2024-12-31,Refund,125.0,credit,11890.34,Income
-2025-01-01,Grocery Store,-71.25,debit,11819.09,Food & Drinks
-2025-01-02,Salary Deposit,2847.32,credit,14666.41,Income
-2025-01-02,Netflix,-15.99,debit,14650.42,Entertainment
-2025-01-03,Starbucks,-11.6,debit,14638.82,Food & Drinks
-2025-01-03,Gas Station,-51.9,debit,14586.92,Transport
-2025-01-04,Amazon,-103.45,debit,14483.47,Shopping
-2025-01-04,Uber,-22.7,debit,14460.77,Transport
-2025-01-05,Grocery Store,-68.5,debit,14392.27,Food & Drinks
-2025-01-05,Cinema,-31.0,debit,14361.27,Entertainment
-2025-01-06,Target,-91.8,debit,14269.47,Shopping
-2025-01-06,Local Cafe,-8.9,debit,14260.57,Food & Drinks
-2025-01-07,Internet Provider,-89.99,debit,14170.58,Utilities
-2025-01-07,Pizza Hut,-39.6,debit,14130.98,Food & Drinks
-2025-01-08,Gym Membership,-45.0,debit,14085.98,Health & Wellness
-2025-01-08,Gas Station,-49.25,debit,14036.73,Transport
-2025-01-09,Grocery Store,-74.3,debit,13962.43,Food & Drinks
-2025-01-09,Pharmacy,-36.8,debit,13925.63,Health & Wellness
-2025-01-10,McDonald's,-15.9,debit,13909.73,Food & Drinks
-2025-01-10,Uber,-20.4,debit,13889.33,Transport
-2025-01-11,Electric Company,-142.5,debit,13746.83,Utilities
-2025-01-11,Starbucks,-12.75,debit,13734.08,Food & Drinks
-2025-01-12,Restaurant XYZ,-77.9,debit,13656.18,Food & Drinks
-2025-01-12,Metro Card,-40.0,debit,13616.18,Transport
-2025-01-13,Walmart,-87.65,debit,13528.53,Shopping
-2025-01-13,Coffee Shop,-9.8,debit,13518.73,Food & Drinks
-2025-01-14,Freelance Payment,1100.0,credit,14618.73,Income
-2025-01-14,Amazon,-84.5,debit,14534.23,Shopping
-2025-01-15,Salary Deposit,2847.32,credit,17381.55,Income
-2025-01-15,Phone Bill,-65.0,debit,17316.55,Utilities
-2025-01-16,Gas Station,-52.35,debit,17264.2,Transport
-2025-01-16,Grocery Store,-69.85,debit,17194.35,Food & Drinks
-2025-01-17,Target,-98.4,debit,17095.95,Shopping
-2025-01-17,Spotify,-9.99,debit,17085.96,Entertainment
-2025-01-18,Uber,-24.1,debit,17061.86,Transport
-2025-01-18,Starbucks,-13.2,debit,17048.66,Food & Drinks
-2025-01-19,Pizza Hut,-42.3,debit,17006.36,Food & Drinks
-2025-01-19,Parking Garage,-18.0,debit,16988.36,Transport
-2025-01-20,Grocery Store,-76.95,debit,16911.41,Food & Drinks
-2025-01-20,Cinema,-29.0,debit,16882.41,Entertainment
-2025-01-21,Water Company,-47.9,debit,16834.51,Utilities
-2025-01-21,McDonald's,-17.65,debit,16816.86,Food & Drinks
-2025-01-22,Best Buy,-167.99,debit,16648.87,Shopping
-2025-01-22,Gas Station,-48.75,debit,16600.12,Transport
-2025-01-23,Restaurant XYZ,-83.6,debit,16516.52,Food & Drinks
-2025-01-23,Uber,-21.95,debit,16494.57,Transport
-2025-01-24,Grocery Store,-72.4,debit,16422.17,Food & Drinks
-2025-01-24,Amazon,-95.3,debit,16326.87,Shopping
-2025-01-25,Starbucks,-12.5,debit,16314.37,Food & Drinks
-2025-01-25,Local Cafe,-10.15,debit,16304.22,Food & Drinks
+2024-10-26,gas station,-48.0,debit,7786.64,Transport
+2024-10-28,uber,-23.5,debit,7679.26,Transport
+2024-10-28,amazon,-89.99,debit,7589.27,Shopping
+2024-10-29,electric company,-125.67,debit,7463.6,Utilities
+2024-10-29,mcdonalds,-18.75,debit,7444.85,Other
+2024-10-29,parking garage,-15.0,debit,7429.85,Transport
+2024-10-30,gym membership,-45.0,debit,7384.85,Health & Wellness
+2024-10-30,pizza hut,-32.5,debit,7352.35,Food & Drinks
+2024-10-31,target,-124.88,debit,7227.47,Shopping
+2024-10-31,gas station,-52.3,debit,7175.17,Transport
+2024-11-01,coffee shop,-8.25,debit,7166.92,Food & Drinks
+2024-11-01,metro card,-40.0,debit,7126.92,Transport
+2024-11-02,walmart,-78.45,debit,7048.47,Shopping
+2024-11-02,spotify,-9.99,debit,7038.48,Entertainment
+2024-11-03,restaurant xyz,-65.3,debit,6973.18,Food & Drinks
+2024-11-03,uber,-18.75,debit,6954.43,Transport
+2024-11-04,pharmacy,-34.5,debit,6919.93,Health & Wellness
+2024-11-04,grocery store,-92.15,debit,6827.78,Food & Drinks
+2024-11-05,internet provider,-89.99,debit,6737.79,Utilities
+2024-11-05,starbucks,-14.8,debit,6722.99,Food & Drinks
+2024-11-06,cinema,-28.0,debit,6694.99,Entertainment
+2024-11-06,gas station,-45.67,debit,6649.32,Transport
+2024-11-07,subway,-12.99,debit,6636.33,Food & Drinks
+2024-11-07,best buy,-156.99,debit,6479.34,Shopping
+2024-11-08,phone bill,-65.0,debit,6414.34,Utilities
+2024-11-08,local cafe,-9.5,debit,6404.84,Food & Drinks
+2024-11-09,freelance payment,1250.0,credit,7654.84,Income
+2024-11-09,amazon,-43.28,debit,7611.56,Shopping
+2024-11-10,grocery store,-56.78,debit,7554.78,Food & Drinks
+2024-11-10,uber,-21.3,debit,7533.48,Transport
+2024-11-10,parking garage,-12.0,debit,7521.48,Transport
+2024-11-11,doctor visit,-125.0,debit,7396.48,Health & Wellness
+2024-11-11,mcdonalds,-15.45,debit,7381.03,Other
+2024-11-12,water company,-45.8,debit,7335.23,Utilities
+2024-11-12,starbucks,-11.25,debit,7323.98,Food & Drinks
+2024-11-13,target,-87.5,debit,7236.48,Shopping
+2024-11-13,gas station,-48.9,debit,7187.58,Transport
+2024-11-14,pizza hut,-38.75,debit,7148.83,Food & Drinks
+2024-11-14,game store,-59.99,debit,7088.84,Shopping
+2024-11-15,salary deposit,2847.32,credit,9936.16,Income
+2024-11-15,grocery store,-71.2,debit,9864.96,Food & Drinks
+2024-11-16,metro card,-40.0,debit,9824.96,Transport
+2024-11-16,netflix,-15.99,debit,9808.97,Entertainment
+2024-11-17,restaurant xyz,-72.4,debit,9736.57,Food & Drinks
+2024-11-17,uber,-19.85,debit,9716.72,Transport
+2024-11-18,clothing store,-134.99,debit,9581.73,Shopping
+2024-11-18,coffee shop,-7.5,debit,9574.23,Food & Drinks
+2024-11-19,pharmacy,-28.9,debit,9545.33,Health & Wellness
+2024-11-19,electric company,-132.45,debit,9412.88,Utilities
+2024-11-20,amazon,-92.67,debit,9320.21,Shopping
+2024-11-20,gas station,-51.25,debit,9268.96,Transport
+2024-11-21,gym membership,-45.0,debit,9223.96,Health & Wellness
+2024-11-21,starbucks,-13.6,debit,9210.36,Food & Drinks
+2024-11-22,walmart,-108.33,debit,9102.03,Shopping
+2024-11-22,uber,-24.5,debit,9077.53,Transport
+2024-11-23,grocery store,-64.85,debit,9012.68,Food & Drinks
+2024-11-23,cinema,-32.0,debit,8980.68,Entertainment
+2024-11-24,local cafe,-10.25,debit,8970.43,Food & Drinks
+2024-11-24,gas station,-46.78,debit,8923.65,Transport
+2024-11-25,internet provider,-89.99,debit,8833.66,Utilities
+2024-11-25,mcdonalds,-16.9,debit,8816.76,Other
+2024-11-26,target,-95.4,debit,8721.36,Shopping
+2024-11-26,parking garage,-15.0,debit,8706.36,Transport
+2024-11-27,pizza hut,-41.25,debit,8665.11,Food & Drinks
+2024-11-27,spotify,-9.99,debit,8655.12,Entertainment
+2024-11-28,restaurant xyz,-68.5,debit,8586.62,Food & Drinks
+2024-11-28,uber,-22.4,debit,8564.22,Transport
+2024-11-29,grocery store,-83.7,debit,8480.52,Food & Drinks
+2024-11-29,phone bill,-65.0,debit,8415.52,Utilities
+2024-11-30,refund,75.0,credit,8490.52,Income
+2024-11-30,starbucks,-12.8,debit,8477.72,Food & Drinks
+2024-12-01,salary deposit,2847.32,credit,11325.04,Income
+2024-12-01,amazon,-118.45,debit,11206.59,Shopping
+2024-12-02,gas station,-49.3,debit,11157.29,Transport
+2024-12-02,grocery store,-69.95,debit,11087.34,Food & Drinks
+2024-12-03,metro card,-40.0,debit,11047.34,Transport
+2024-12-03,coffee shop,-8.75,debit,11038.59,Food & Drinks
+2024-12-04,doctor visit,-150.0,debit,10888.59,Health & Wellness
+2024-12-04,mcdonalds,-17.25,debit,10871.34,Other
+2024-12-05,water company,-48.6,debit,10822.74,Utilities
+2024-12-05,best buy,-189.99,debit,10632.75,Shopping
+2024-12-06,uber,-20.15,debit,10612.6,Transport
+2024-12-06,starbucks,-11.9,debit,10600.7,Food & Drinks
+2024-12-07,grocery store,-76.4,debit,10524.3,Food & Drinks
+2024-12-07,cinema,-35.0,debit,10489.3,Entertainment
+2024-12-08,electric company,-128.9,debit,10360.4,Utilities
+2024-12-08,pizza hut,-36.8,debit,10323.6,Food & Drinks
+2024-12-09,target,-102.55,debit,10221.05,Shopping
+2024-12-09,gas station,-52.7,debit,10168.35,Transport
+2024-12-10,freelance payment,950.0,credit,11118.35,Income
+2024-12-10,netflix,-15.99,debit,11102.36,Entertainment
+2024-12-11,restaurant xyz,-81.3,debit,11021.06,Food & Drinks
+2024-12-11,parking garage,-18.0,debit,11003.06,Transport
+2024-12-12,gym membership,-45.0,debit,10958.06,Health & Wellness
+2024-12-12,grocery store,-58.25,debit,10899.81,Food & Drinks
+2024-12-13,amazon,-67.89,debit,10831.92,Shopping
+2024-12-13,uber,-23.9,debit,10808.02,Transport
+2024-12-14,walmart,-94.6,debit,10713.42,Shopping
+2024-12-14,local cafe,-9.25,debit,10704.17,Food & Drinks
+2024-12-15,salary deposit,2847.32,credit,13551.49,Income
+2024-12-15,internet provider,-89.99,debit,13461.5,Utilities
+2024-12-16,gas station,-47.85,debit,13413.65,Transport
+2024-12-16,starbucks,-13.4,debit,13400.25,Food & Drinks
+2024-12-17,pharmacy,-42.3,debit,13357.95,Health & Wellness
+2024-12-17,grocery store,-72.9,debit,13285.05,Food & Drinks
+2024-12-18,phone bill,-65.0,debit,13220.05,Utilities
+2024-12-18,mcdonalds,-14.75,debit,13205.3,Other
+2024-12-19,clothing store,-145.0,debit,13060.3,Shopping
+2024-12-19,uber,-19.6,debit,13040.7,Transport
+2024-12-20,target,-88.25,debit,12952.45,Shopping
+2024-12-20,cinema,-28.0,debit,12924.45,Entertainment
+2024-12-21,grocery store,-81.5,debit,12842.95,Food & Drinks
+2024-12-21,gas station,-50.4,debit,12792.55,Transport
+2024-12-22,restaurant xyz,-74.2,debit,12718.35,Food & Drinks
+2024-12-22,spotify,-9.99,debit,12708.36,Entertainment
+2024-12-23,amazon,-156.78,debit,12551.58,Shopping
+2024-12-23,coffee shop,-10.5,debit,12541.08,Food & Drinks
+2024-12-24,pizza hut,-44.9,debit,12496.18,Food & Drinks
+2024-12-24,metro card,-40.0,debit,12456.18,Transport
+2024-12-25,grocery store,-95.3,debit,12360.88,Food & Drinks
+2024-12-26,electric company,-135.7,debit,12225.18,Utilities
+2024-12-26,starbucks,-12.15,debit,12213.03,Food & Drinks
+2024-12-27,uber,-21.8,debit,12191.23,Transport
+2024-12-27,game store,-69.99,debit,12121.24,Shopping
+2024-12-28,walmart,-76.45,debit,12044.79,Shopping
+2024-12-28,gas station,-48.6,debit,11996.19,Transport
+2024-12-29,grocery store,-63.85,debit,11932.34,Food & Drinks
+2024-12-29,parking garage,-15.0,debit,11917.34,Transport
+2024-12-30,mcdonalds,-16.3,debit,11901.04,Other
+2024-12-30,water company,-46.2,debit,11854.84,Utilities
+2024-12-31,restaurant xyz,-89.5,debit,11765.34,Food & Drinks
+2024-12-31,refund,125.0,credit,11890.34,Income
+2025-01-01,grocery store,-71.25,debit,11819.09,Food & Drinks
+2025-01-02,salary deposit,2847.32,credit,14666.41,Income
+2025-01-02,netflix,-15.99,debit,14650.42,Entertainment
+2025-01-03,starbucks,-11.6,debit,14638.82,Food & Drinks
+2025-01-03,gas station,-51.9,debit,14586.92,Transport
+2025-01-04,amazon,-103.45,debit,14483.47,Shopping
+2025-01-04,uber,-22.7,debit,14460.77,Transport
+2025-01-05,grocery store,-68.5,debit,14392.27,Food & Drinks
+2025-01-05,cinema,-31.0,debit,14361.27,Entertainment
+2025-01-06,target,-91.8,debit,14269.47,Shopping
+2025-01-06,local cafe,-8.9,debit,14260.57,Food & Drinks
+2025-01-07,internet provider,-89.99,debit,14170.58,Utilities
+2025-01-07,pizza hut,-39.6,debit,14130.98,Food & Drinks
+2025-01-08,gym membership,-45.0,debit,14085.98,Health & Wellness
+2025-01-08,gas station,-49.25,debit,14036.73,Transport
+2025-01-09,grocery store,-74.3,debit,13962.43,Food & Drinks
+2025-01-09,pharmacy,-36.8,debit,13925.63,Health & Wellness
+2025-01-10,mcdonalds,-15.9,debit,13909.73,Other
+2025-01-10,uber,-20.4,debit,13889.33,Transport
+2025-01-11,electric company,-142.5,debit,13746.83,Utilities
+2025-01-11,starbucks,-12.75,debit,13734.08,Food & Drinks
+2025-01-12,restaurant xyz,-77.9,debit,13656.18,Food & Drinks
+2025-01-12,metro card,-40.0,debit,13616.18,Transport
+2025-01-13,walmart,-87.65,debit,13528.53,Shopping
+2025-01-13,coffee shop,-9.8,debit,13518.73,Food & Drinks
+2025-01-14,freelance payment,1100.0,credit,14618.73,Income
+2025-01-14,amazon,-84.5,debit,14534.23,Shopping
+2025-01-15,salary deposit,2847.32,credit,17381.55,Income
+2025-01-15,phone bill,-65.0,debit,17316.55,Utilities
+2025-01-16,gas station,-52.35,debit,17264.2,Transport
+2025-01-16,grocery store,-69.85,debit,17194.35,Food & Drinks
+2025-01-17,target,-98.4,debit,17095.95,Shopping
+2025-01-17,spotify,-9.99,debit,17085.96,Entertainment
+2025-01-18,uber,-24.1,debit,17061.86,Transport
+2025-01-18,starbucks,-13.2,debit,17048.66,Food & Drinks
+2025-01-19,pizza hut,-42.3,debit,17006.36,Food & Drinks
+2025-01-19,parking garage,-18.0,debit,16988.36,Transport
+2025-01-20,grocery store,-76.95,debit,16911.41,Food & Drinks
+2025-01-20,cinema,-29.0,debit,16882.41,Entertainment
+2025-01-21,water company,-47.9,debit,16834.51,Utilities
+2025-01-21,mcdonalds,-17.65,debit,16816.86,Other
+2025-01-22,best buy,-167.99,debit,16648.87,Shopping
+2025-01-22,gas station,-48.75,debit,16600.12,Transport
+2025-01-23,restaurant xyz,-83.6,debit,16516.52,Food & Drinks
+2025-01-23,uber,-21.95,debit,16494.57,Transport
+2025-01-24,grocery store,-72.4,debit,16422.17,Food & Drinks
+2025-01-24,amazon,-95.3,debit,16326.87,Shopping
+2025-01-25,starbucks,-12.5,debit,16314.37,Food & Drinks
+2025-01-25,local cafe,-10.15,debit,16304.22,Food & Drinks

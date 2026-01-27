@@ -1,4 +1,6 @@
 import csv
+import re
+
 with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile)
     data = list(reader)
@@ -17,7 +19,12 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
         for key, value in row.items():
             if value in ("None", None, ""):
                 return None
+            if key in ("Description", "Type"):
+                value = value.strip().lower()
+                value = re.sub(r'[^a-z0-9\s]', '', value)
             cleaned[key] = value
+            # elif key == "Date":
+
         try:
             cleaned["Amount"] = float(cleaned["Amount"])
             cleaned["Balance"] = float(cleaned["Balance"])
@@ -39,7 +46,7 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
     def categorize(description):
         for category, keywords in categories.items():
             for keyword in keywords:
-                if keyword.lower() in description.lower():
+                if keyword.lower() in description:
                     return category
         return "Other"
 
