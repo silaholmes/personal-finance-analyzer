@@ -1,3 +1,187 @@
-date,description,amount,category
-2025-01-01,Groceries,-150,Food
-2025-01-02,Bus Ticket,-10,Transport
+Date,Description,Amount,Type,Balance
+2024-10-26,Salary Deposit,2847.32,None,7847.32
+2024-10-26,None,2847,credit,7847.32
+2024-10-26,Starbucks,-12.45,debit,None
+2024-10-26,Gas Station,-48,debit,7786.64
+2024-10-27,Grocery Store,tyy,debit,7718.75
+2024-10-27,Netflix,-15.99,debit,hh
+2024-10-28,Uber,-23.50,debit,7679.26
+2024-10-28,Amazon,-89.99,debit,7589.27
+2024-10-29,Electric Company,-125.67,debit,7463.60
+2024-10-29,McDonald's,-18.75,debit,7444.85
+2024-10-29,Parking Garage,-15.00,debit,7429.85
+2024-10-30,Gym Membership,-45.00,debit,7384.85
+2024-10-30,Pizza Hut,-32.50,debit,7352.35
+2024-10-31,Target,-124.88,debit,7227.47
+2024-10-31,Gas Station,-52.30,debit,7175.17
+2024-11-01,Coffee Shop,-8.25,debit,7166.92
+2024-11-01,Metro Card,-40.00,debit,7126.92
+2024-11-02,Walmart,-78.45,debit,7048.47
+2024-11-02,Spotify,-9.99,debit,7038.48
+2024-11-03,Restaurant XYZ,-65.30,debit,6973.18
+2024-11-03,Uber,-18.75,debit,6954.43
+2024-11-04,Pharmacy,-34.50,debit,6919.93
+2024-11-04,Grocery Store,-92.15,debit,6827.78
+2024-11-05,Internet Provider,-89.99,debit,6737.79
+2024-11-05,Starbucks,-14.80,debit,6722.99
+2024-11-06,Cinema,-28.00,debit,6694.99
+2024-11-06,Gas Station,-45.67,debit,6649.32
+2024-11-07,Subway,-12.99,debit,6636.33
+2024-11-07,Best Buy,-156.99,debit,6479.34
+2024-11-08,Phone Bill,-65.00,debit,6414.34
+2024-11-08,Local Cafe,-9.50,debit,6404.84
+2024-11-09,Freelance Payment,1250.00,credit,7654.84
+2024-11-09,Amazon,-43.28,debit,7611.56
+2024-11-10,Grocery Store,-56.78,debit,7554.78
+2024-11-10,Uber,-21.30,debit,7533.48
+2024-11-10,Parking Garage,-12.00,debit,7521.48
+2024-11-11,Doctor Visit,-125.00,debit,7396.48
+2024-11-11,McDonald's,-15.45,debit,7381.03
+2024-11-12,Water Company,-45.80,debit,7335.23
+2024-11-12,Starbucks,-11.25,debit,7323.98
+2024-11-13,Target,-87.50,debit,7236.48
+2024-11-13,Gas Station,-48.90,debit,7187.58
+2024-11-14,Pizza Hut,-38.75,debit,7148.83
+2024-11-14,Game Store,-59.99,debit,7088.84
+2024-11-15,Salary Deposit,2847.32,credit,9936.16
+2024-11-15,Grocery Store,-71.20,debit,9864.96
+2024-11-16,Metro Card,-40.00,debit,9824.96
+2024-11-16,Netflix,-15.99,debit,9808.97
+2024-11-17,Restaurant XYZ,-72.40,debit,9736.57
+2024-11-17,Uber,-19.85,debit,9716.72
+2024-11-18,Clothing Store,-134.99,debit,9581.73
+2024-11-18,Coffee Shop,-7.50,debit,9574.23
+2024-11-19,Pharmacy,-28.90,debit,9545.33
+2024-11-19,Electric Company,-132.45,debit,9412.88
+2024-11-20,Amazon,-92.67,debit,9320.21
+2024-11-20,Gas Station,-51.25,debit,9268.96
+2024-11-21,Gym Membership,-45.00,debit,9223.96
+2024-11-21,Starbucks,-13.60,debit,9210.36
+2024-11-22,Walmart,-108.33,debit,9102.03
+2024-11-22,Uber,-24.50,debit,9077.53
+2024-11-23,Grocery Store,-64.85,debit,9012.68
+2024-11-23,Cinema,-32.00,debit,8980.68
+2024-11-24,Local Cafe,-10.25,debit,8970.43
+2024-11-24,Gas Station,-46.78,debit,8923.65
+2024-11-25,Internet Provider,-89.99,debit,8833.66
+2024-11-25,McDonald's,-16.90,debit,8816.76
+2024-11-26,Target,-95.40,debit,8721.36
+2024-11-26,Parking Garage,-15.00,debit,8706.36
+2024-11-27,Pizza Hut,-41.25,debit,8665.11
+2024-11-27,Spotify,-9.99,debit,8655.12
+2024-11-28,Restaurant XYZ,-68.50,debit,8586.62
+2024-11-28,Uber,-22.40,debit,8564.22
+2024-11-29,Grocery Store,-83.70,debit,8480.52
+2024-11-29,Phone Bill,-65.00,debit,8415.52
+2024-11-30,Refund,75.00,credit,8490.52
+2024-11-30,Starbucks,-12.80,debit,8477.72
+2024-12-01,Salary Deposit,2847.32,credit,11325.04
+2024-12-01,Amazon,-118.45,debit,11206.59
+2024-12-02,Gas Station,-49.30,debit,11157.29
+2024-12-02,Grocery Store,-69.95,debit,11087.34
+2024-12-03,Metro Card,-40.00,debit,11047.34
+2024-12-03,Coffee Shop,-8.75,debit,11038.59
+2024-12-04,Doctor Visit,-150.00,debit,10888.59
+2024-12-04,McDonald's,-17.25,debit,10871.34
+2024-12-05,Water Company,-48.60,debit,10822.74
+2024-12-05,Best Buy,-189.99,debit,10632.75
+2024-12-06,Uber,-20.15,debit,10612.60
+2024-12-06,Starbucks,-11.90,debit,10600.70
+2024-12-07,Grocery Store,-76.40,debit,10524.30
+2024-12-07,Cinema,-35.00,debit,10489.30
+2024-12-08,Electric Company,-128.90,debit,10360.40
+2024-12-08,Pizza Hut,-36.80,debit,10323.60
+2024-12-09,Target,-102.55,debit,10221.05
+2024-12-09,Gas Station,-52.70,debit,10168.35
+2024-12-10,Freelance Payment,950.00,credit,11118.35
+2024-12-10,Netflix,-15.99,debit,11102.36
+2024-12-11,Restaurant XYZ,-81.30,debit,11021.06
+2024-12-11,Parking Garage,-18.00,debit,11003.06
+2024-12-12,Gym Membership,-45.00,debit,10958.06
+2024-12-12,Grocery Store,-58.25,debit,10899.81
+2024-12-13,Amazon,-67.89,debit,10831.92
+2024-12-13,Uber,-23.90,debit,10808.02
+2024-12-14,Walmart,-94.60,debit,10713.42
+2024-12-14,Local Cafe,-9.25,debit,10704.17
+2024-12-15,Salary Deposit,2847.32,credit,13551.49
+2024-12-15,Internet Provider,-89.99,debit,13461.50
+2024-12-16,Gas Station,-47.85,debit,13413.65
+2024-12-16,Starbucks,-13.40,debit,13400.25
+2024-12-17,Pharmacy,-42.30,debit,13357.95
+2024-12-17,Grocery Store,-72.90,debit,13285.05
+2024-12-18,Phone Bill,-65.00,debit,13220.05
+2024-12-18,McDonald's,-14.75,debit,13205.30
+2024-12-19,Clothing Store,-145.00,debit,13060.30
+2024-12-19,Uber,-19.60,debit,13040.70
+2024-12-20,Target,-88.25,debit,12952.45
+2024-12-20,Cinema,-28.00,debit,12924.45
+2024-12-21,Grocery Store,-81.50,debit,12842.95
+2024-12-21,Gas Station,-50.40,debit,12792.55
+2024-12-22,Restaurant XYZ,-74.20,debit,12718.35
+2024-12-22,Spotify,-9.99,debit,12708.36
+2024-12-23,Amazon,-156.78,debit,12551.58
+2024-12-23,Coffee Shop,-10.50,debit,12541.08
+2024-12-24,Pizza Hut,-44.90,debit,12496.18
+2024-12-24,Metro Card,-40.00,debit,12456.18
+2024-12-25,Grocery Store,-95.30,debit,12360.88
+2024-12-26,Electric Company,-135.70,debit,12225.18
+2024-12-26,Starbucks,-12.15,debit,12213.03
+2024-12-27,Uber,-21.80,debit,12191.23
+2024-12-27,Game Store,-69.99,debit,12121.24
+2024-12-28,Walmart,-76.45,debit,12044.79
+2024-12-28,Gas Station,-48.60,debit,11996.19
+2024-12-29,Grocery Store,-63.85,debit,11932.34
+2024-12-29,Parking Garage,-15.00,debit,11917.34
+2024-12-30,McDonald's,-16.30,debit,11901.04
+2024-12-30,Water Company,-46.20,debit,11854.84
+2024-12-31,Restaurant XYZ,-89.50,debit,11765.34
+2024-12-31,Refund,125.00,credit,11890.34
+2025-01-01,Grocery Store,-71.25,debit,11819.09
+2025-01-02,Salary Deposit,2847.32,credit,14666.41
+2025-01-02,Netflix,-15.99,debit,14650.42
+2025-01-03,Starbucks,-11.60,debit,14638.82
+2025-01-03,Gas Station,-51.90,debit,14586.92
+2025-01-04,Amazon,-103.45,debit,14483.47
+2025-01-04,Uber,-22.70,debit,14460.77
+2025-01-05,Grocery Store,-68.50,debit,14392.27
+2025-01-05,Cinema,-31.00,debit,14361.27
+2025-01-06,Target,-91.80,debit,14269.47
+2025-01-06,Local Cafe,-8.90,debit,14260.57
+2025-01-07,Internet Provider,-89.99,debit,14170.58
+2025-01-07,Pizza Hut,-39.60,debit,14130.98
+2025-01-08,Gym Membership,-45.00,debit,14085.98
+2025-01-08,Gas Station,-49.25,debit,14036.73
+2025-01-09,Grocery Store,-74.30,debit,13962.43
+2025-01-09,Pharmacy,-36.80,debit,13925.63
+2025-01-10,McDonald's,-15.90,debit,13909.73
+2025-01-10,Uber,-20.40,debit,13889.33
+2025-01-11,Electric Company,-142.50,debit,13746.83
+2025-01-11,Starbucks,-12.75,debit,13734.08
+2025-01-12,Restaurant XYZ,-77.90,debit,13656.18
+2025-01-12,Metro Card,-40.00,debit,13616.18
+2025-01-13,Walmart,-87.65,debit,13528.53
+2025-01-13,Coffee Shop,-9.80,debit,13518.73
+2025-01-14,Freelance Payment,1100.00,credit,14618.73
+2025-01-14,Amazon,-84.50,debit,14534.23
+2025-01-15,Salary Deposit,2847.32,credit,17381.55
+2025-01-15,Phone Bill,-65.00,debit,17316.55
+2025-01-16,Gas Station,-52.35,debit,17264.20
+2025-01-16,Grocery Store,-69.85,debit,17194.35
+2025-01-17,Target,-98.40,debit,17095.95
+2025-01-17,Spotify,-9.99,debit,17085.96
+2025-01-18,Uber,-24.10,debit,17061.86
+2025-01-18,Starbucks,-13.20,debit,17048.66
+2025-01-19,Pizza Hut,-42.30,debit,17006.36
+2025-01-19,Parking Garage,-18.00,debit,16988.36
+2025-01-20,Grocery Store,-76.95,debit,16911.41
+2025-01-20,Cinema,-29.00,debit,16882.41
+2025-01-21,Water Company,-47.90,debit,16834.51
+2025-01-21,McDonald's,-17.65,debit,16816.86
+2025-01-22,Best Buy,-167.99,debit,16648.87
+2025-01-22,Gas Station,-48.75,debit,16600.12
+2025-01-23,Restaurant XYZ,-83.60,debit,16516.52
+2025-01-23,Uber,-21.95,debit,16494.57
+2025-01-24,Grocery Store,-72.40,debit,16422.17
+2025-01-24,Amazon,-95.30,debit,16326.87
+2025-01-25,Starbucks,-12.50,debit,16314.37
+2025-01-25,Local Cafe,-10.15,debit,16304.22
