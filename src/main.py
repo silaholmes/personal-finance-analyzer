@@ -1,6 +1,14 @@
 import csv
 import re
+import logging
+from analyzer import category_totals, analyze_income_expenses, yearly_summary, count_category
+from categorizer import categorize
 
+logging.basicConfig(
+    filename="app.log",
+    level = logging.DEBUG,
+    format="%(asctime)s %(levelname)s:%(message)s"
+)
 with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile)
     data = list(reader)
@@ -9,7 +17,10 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
     EXPECTED = {"Date", "Description", "Amount", "Type", "Balance"}
 
     if set(reader.fieldnames) != EXPECTED:
+        logging.error("Unexpected CSV schema")  
         raise ValueError("Unexpected CSV schema")
+    
+    logging.info(f"Loaded {len(data)} rows from CSV")
 
     unique_values = set(row["Description"] for row in data)
     print(unique_values)
@@ -21,7 +32,7 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
                 return None
             if key in ("Description", "Type"):
                 value = value.strip().lower()
-                value = re.sub(r'[^a-z0-9\s]', '', value)
+                value = re.sub(r'[^a-z0-9\s&]', '', value)
             cleaned[key] = value
             # elif key == "Date":
 
@@ -33,28 +44,27 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
         return cleaned
     
     new_data = [r for row in data if (r := clean_and_validate(row))]
-
-    categories = {
-        'Income': ['Salary Deposit', 'freelance payment', 'refund'],
-        'Food & Drinks': ['Starbucks', 'Pizza Hut', 'Subway', 'Restaurant XYZ', 'Local Cafe', 'Coffee Shop', "McDonald's", "Grocery Store"],
-        'Shopping': ["Walmart", "Target", "Clothing Store", "Amazon", "Best Buy", "Game Store"],
-        'Transport': ["Uber", "Gas Station", "Parking Garage", "Metro Card"],
-        'Utilities': ["Internet Provider", "Phone Bill", "Electric Company", "Water Company"],
-        'Health & Wellness': ["Doctor Visit", "Gym Membership", "Pharmacy"],
-        'Entertainment': ["Netflix", "Spotify", "Cinema"]
-    }
-    def categorize(description):
-        for category, keywords in categories.items():
-            for keyword in keywords:
-                if keyword.lower() in description:
-                    return category
-        return "Other"
+    logging.info(f"Validated and cleaned data. {len(new_data)} rows remain after cleaning.")
 
     for row in new_data:
         row['Category'] = categorize(row['Description'])
+    logging.info("Categorized transactions.")
 with open("data/transactions_categorized.csv", "w", newline='', encoding='utf-8') as csvfile:
     fieldnames = ["Date", "Description", "Amount", "Type", "Balance", "Category"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     
     writer.writeheader()
     writer.writerows(new_data)
+
+totals = category_totals(new_data)
+income, expenses = analyze_income_expenses(new_data)
+years, yearly_income, yearly_expenses = yearly_summary(new_data)
+
+for key, value in totals.items():
+    print(f"{key}: {abs(value):.2f}")
+print(f"Total Income: {income:.2f} \nTotal Expenses: {expenses:.2f}")
+for year in years:
+    print(f"Year 20{year} - Income: {yearly_income:.2f}, Expenses: {yearly_expenses:.2f}")
+
+for category, count in count_category(new_data).items():
+    print(f"count of {category}: {count}")

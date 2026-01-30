@@ -1,0 +1,156 @@
+2026-01-27 12:46:47,874 INFO:Loaded 186 rows from CSV
+2026-01-27 12:46:47,875 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 12:46:47,876 INFO:Categorized transactions.
+2026-01-27 12:50:08,533 INFO:Loaded 186 rows from CSV
+2026-01-27 12:50:08,535 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 12:50:08,535 INFO:Categorized transactions.
+2026-01-27 13:11:20,067 INFO:Loaded 186 rows from CSV
+2026-01-27 13:11:20,068 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:11:20,068 INFO:Categorized transactions.
+2026-01-27 13:13:20,581 INFO:Loaded 186 rows from CSV
+2026-01-27 13:13:20,582 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:13:20,596 INFO:Categorized transactions.
+2026-01-27 13:13:44,019 INFO:Loaded 186 rows from CSV
+2026-01-27 13:13:44,020 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:13:44,021 INFO:Categorized transactions.
+2026-01-27 13:17:35,022 INFO:Loaded 186 rows from CSV
+2026-01-27 13:17:35,023 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:17:35,024 INFO:Categorized transactions.
+2026-01-27 13:18:26,752 INFO:Loaded 186 rows from CSV
+2026-01-27 13:18:26,753 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:18:26,754 INFO:Categorized transactions.
+2026-01-27 13:19:13,975 INFO:Loaded 186 rows from CSV
+2026-01-27 13:19:13,976 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:19:13,977 INFO:Categorized transactions.
+2026-01-27 13:20:21,548 INFO:Loaded 186 rows from CSV
+2026-01-27 13:20:21,549 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:20:21,549 INFO:Categorized transactions.
+2026-01-27 13:21:38,636 INFO:Loaded 186 rows from CSV
+2026-01-27 13:21:38,637 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:21:38,637 INFO:Categorized transactions.
+2026-01-27 13:22:13,381 INFO:Loaded 186 rows from CSV
+2026-01-27 13:22:13,382 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:22:13,383 INFO:Categorized transactions.
+2026-01-27 13:24:01,069 INFO:Loaded 186 rows from CSV
+2026-01-27 13:24:01,070 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-27 13:24:01,071 INFO:Categorized transactions.
+2026-01-28 11:35:52,327 INFO:Loaded 186 rows from CSV
+2026-01-28 11:35:52,328 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 11:35:52,328 INFO:Categorized transactions.
+2026-01-28 12:09:19,718 INFO:Loaded 186 rows from CSV
+2026-01-28 12:09:19,720 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:09:19,721 INFO:Categorized transactions.
+2026-01-28 12:21:03,682 INFO:Loaded 186 rows from CSV
+2026-01-28 12:21:03,684 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:21:03,685 INFO:Categorized transactions.
+2026-01-28 12:22:45,175 INFO:Loaded 186 rows from CSV
+2026-01-28 12:22:45,176 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:22:45,177 INFO:Categorized transactions.
+2026-01-28 12:22:58,613 INFO:Loaded 186 rows from CSV
+2026-01-28 12:22:58,614 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:22:58,614 INFO:Categorized transactions.
+2026-01-28 12:23:15,115 INFO:Loaded 186 rows from CSV
+2026-01-28 12:23:15,116 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:23:15,116 INFO:Categorized transactions.
+2026-01-28 12:23:24,763 INFO:Loaded 186 rows from CSV
+2026-01-28 12:23:24,765 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:23:24,765 INFO:Categorized transactions.
+2026-01-28 12:23:31,418 INFO:Loaded 186 rows from CSV
+2026-01-28 12:23:31,419 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:23:31,419 INFO:Categorized transactions.
+2026-01-28 12:23:40,527 INFO:Loaded 186 rows from CSV
+2026-01-28 12:23:40,529 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:23:40,529 INFO:Categorized transactions.
+2026-01-28 12:24:55,927 INFO:Loaded 186 rows from CSV
+2026-01-28 12:24:55,928 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:24:55,929 INFO:Categorized transactions.
+2026-01-28 12:29:59,074 INFO:Loaded 186 rows from CSV
+2026-01-28 12:29:59,075 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:29:59,075 INFO:Categorized transactions.
+2026-01-28 12:30:16,132 INFO:Loaded 186 rows from CSV
+2026-01-28 12:30:16,133 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:30:16,134 INFO:Categorized transactions.
+2026-01-28 12:30:31,584 INFO:Loaded 186 rows from CSV
+2026-01-28 12:30:31,585 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:30:31,585 INFO:Categorized transactions.
+2026-01-28 12:32:59,045 INFO:Loaded 186 rows from CSV
+2026-01-28 12:32:59,046 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:32:59,047 INFO:Categorized transactions.
+2026-01-28 12:33:25,272 INFO:Loaded 186 rows from CSV
+2026-01-28 12:33:25,273 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:33:25,273 INFO:Categorized transactions.
+2026-01-28 12:33:46,782 INFO:Loaded 186 rows from CSV
+2026-01-28 12:33:46,783 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:33:46,783 INFO:Categorized transactions.
+2026-01-28 12:34:36,268 INFO:Loaded 186 rows from CSV
+2026-01-28 12:34:36,269 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:34:36,269 INFO:Categorized transactions.
+2026-01-28 12:34:50,890 INFO:Loaded 186 rows from CSV
+2026-01-28 12:34:50,891 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:34:50,892 INFO:Categorized transactions.
+2026-01-28 12:34:54,748 INFO:Loaded 186 rows from CSV
+2026-01-28 12:34:54,749 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:34:54,749 INFO:Categorized transactions.
+2026-01-28 12:35:20,359 INFO:Loaded 186 rows from CSV
+2026-01-28 12:35:20,361 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:35:20,361 INFO:Categorized transactions.
+2026-01-28 12:46:51,194 INFO:Loaded 186 rows from CSV
+2026-01-28 12:46:51,196 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:46:51,196 INFO:Categorized transactions.
+2026-01-28 12:46:59,300 INFO:Loaded 186 rows from CSV
+2026-01-28 12:46:59,302 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:46:59,302 INFO:Categorized transactions.
+2026-01-28 12:47:05,511 INFO:Loaded 186 rows from CSV
+2026-01-28 12:47:05,513 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:47:05,513 INFO:Categorized transactions.
+2026-01-28 12:47:58,948 INFO:Loaded 186 rows from CSV
+2026-01-28 12:47:58,949 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:47:58,950 INFO:Categorized transactions.
+2026-01-28 12:51:47,049 INFO:Loaded 186 rows from CSV
+2026-01-28 12:51:47,050 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:51:47,050 INFO:Categorized transactions.
+2026-01-28 12:52:12,031 INFO:Loaded 186 rows from CSV
+2026-01-28 12:52:12,033 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:52:12,033 INFO:Categorized transactions.
+2026-01-28 12:52:16,721 INFO:Loaded 186 rows from CSV
+2026-01-28 12:52:16,722 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:52:16,722 INFO:Categorized transactions.
+2026-01-28 12:52:56,841 INFO:Loaded 186 rows from CSV
+2026-01-28 12:52:56,842 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:52:56,842 INFO:Categorized transactions.
+2026-01-28 12:57:20,866 INFO:Loaded 186 rows from CSV
+2026-01-28 12:57:20,867 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 12:57:20,867 INFO:Categorized transactions.
+2026-01-28 13:59:15,248 INFO:Loaded 186 rows from CSV
+2026-01-28 13:59:15,249 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 13:59:15,250 INFO:Categorized transactions.
+2026-01-28 13:59:57,666 INFO:Loaded 186 rows from CSV
+2026-01-28 13:59:57,667 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 13:59:57,667 INFO:Categorized transactions.
+2026-01-28 14:01:07,048 INFO:Loaded 186 rows from CSV
+2026-01-28 14:01:07,048 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-28 14:01:07,049 INFO:Categorized transactions.
+2026-01-30 13:51:00,817 INFO:Loaded 186 rows from CSV
+2026-01-30 13:51:00,819 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:51:00,819 INFO:Categorized transactions.
+2026-01-30 13:52:45,218 INFO:Loaded 186 rows from CSV
+2026-01-30 13:52:45,219 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:52:45,219 INFO:Categorized transactions.
+2026-01-30 13:53:20,688 INFO:Loaded 186 rows from CSV
+2026-01-30 13:53:20,689 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:53:20,690 INFO:Categorized transactions.
+2026-01-30 13:54:08,782 INFO:Loaded 186 rows from CSV
+2026-01-30 13:54:08,783 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:54:08,784 INFO:Categorized transactions.
+2026-01-30 13:54:16,774 INFO:Loaded 186 rows from CSV
+2026-01-30 13:54:16,775 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:54:16,775 INFO:Categorized transactions.
+2026-01-30 13:54:20,563 INFO:Loaded 186 rows from CSV
+2026-01-30 13:54:20,565 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:54:20,566 INFO:Categorized transactions.
+2026-01-30 13:54:35,631 INFO:Loaded 186 rows from CSV
+2026-01-30 13:54:35,633 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:54:35,634 INFO:Categorized transactions.
+2026-01-30 13:58:42,471 INFO:Loaded 186 rows from CSV
+2026-01-30 13:58:42,472 INFO:Validated and cleaned data. 181 rows remain after cleaning.
+2026-01-30 13:58:42,473 INFO:Categorized transactions.
