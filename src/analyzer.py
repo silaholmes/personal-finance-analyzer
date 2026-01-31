@@ -23,3 +23,13 @@ def count_category(transactions):
     for row in transactions:
         dic[row["Category"]] = dic.get(row["Category"], 0) + 1
     return dic
+
+def expance_by_category(transactions):
+    categories = []
+    values = []
+    for key, value in transactions.items():
+        if key == "income":
+            continue
+        categories.append(key)
+        values.append(abs(value))
+    return categories, values

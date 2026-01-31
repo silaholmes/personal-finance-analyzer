@@ -1,8 +1,9 @@
 import csv
 import re
 import logging
-from analyzer import category_totals, analyze_income_expenses, yearly_summary, count_category
+from analyzer import category_totals, analyze_income_expenses, yearly_summary, count_category, expance_by_category
 from categorizer import categorize
+from visualizer import bar_chart, line_chart
 
 logging.basicConfig(
     filename="app.log",
@@ -61,6 +62,8 @@ income, expenses = analyze_income_expenses(new_data)
 years, yearly_income, yearly_expenses = yearly_summary(new_data)
 
 for key, value in totals.items():
+    if key == "income":
+        continue
     print(f"{key}: {abs(value):.2f}")
 print(f"Total Income: {income:.2f} \nTotal Expenses: {expenses:.2f}")
 for year in years:
@@ -68,3 +71,6 @@ for year in years:
 
 for category, count in count_category(new_data).items():
     print(f"count of {category}: {count}")
+categories, values =expance_by_category(totals)
+bar_chart(categories,values)
+line_chart(categories, values)
