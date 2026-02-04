@@ -1,9 +1,10 @@
 import csv
 import re
 import logging
-from analyzer import category_totals, analyze_income_expenses, yearly_summary, count_category, expance_by_category
+from analyzer import category_totals, analyze_income_expenses, yearly_summary, count_category, expense_by_category
 from categorizer import categorize
 from visualizer import bar_chart, line_chart
+from report import csv_report, months
 
 logging.basicConfig(
     filename="app.log",
@@ -67,10 +68,20 @@ for key, value in totals.items():
     print(f"{key}: {abs(value):.2f}")
 print(f"Total Income: {income:.2f} \nTotal Expenses: {expenses:.2f}")
 for year in years:
-    print(f"Year 20{year} - Income: {yearly_income:.2f}, Expenses: {yearly_expenses:.2f}")
+    print(f"Year {year} - Income: {yearly_income[year]:.2f}, Expenses: {yearly_expenses[year]:.2f}")
 
 for category, count in count_category(new_data).items():
     print(f"count of {category}: {count}")
-categories, values =expance_by_category(totals)
+categories, values =expense_by_category(totals)
 bar_chart(categories,values)
 line_chart(categories, values)
+
+month = months(new_data)
+report = csv_report(new_data, month)
+
+with open("data/report.csv", "w", newline='', encoding='utf-8') as csvfile:
+    fieldnames = ["Month", "Category", "Total", "Monthly_Income"]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    
+    writer.writeheader()
+    writer.writerows(report)

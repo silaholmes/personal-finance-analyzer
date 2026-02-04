@@ -12,11 +12,20 @@ def analyze_income_expenses(transactions):
     return total_income, total_expenses
 
 def yearly_summary(transactions):
-    year = set(row["Date"].split("-")[0][2:4] for row in transactions)
-    for y in year:
-        yearly_income = sum(row["Amount"] for row in transactions if row["Category"] == "income" and row["Date"].startswith(f"20{y}"))
-        yearly_expenses = abs(sum(row["Amount"] for row in transactions if row["Category"] != "income" and row["Date"].startswith(f"20{y}")))
-    return year, yearly_income, yearly_expenses
+    yearly_income = {}
+    yearly_expenses = {}
+
+    for row in transactions:
+        year = row["Date"][:4]
+
+        if row["Amount"] > 0:
+            yearly_income[year] = yearly_income.get(year, 0) + row["Amount"]
+        else:
+            yearly_expenses[year] = yearly_expenses.get(year, 0) + abs(row["Amount"])
+
+    years = sorted(set(yearly_income) | set(yearly_expenses))
+    return years, yearly_income, yearly_expenses
+
 
 def count_category(transactions):
     dic = {}
@@ -24,7 +33,7 @@ def count_category(transactions):
         dic[row["Category"]] = dic.get(row["Category"], 0) + 1
     return dic
 
-def expance_by_category(transactions):
+def expense_by_category(transactions):
     categories = []
     values = []
     for key, value in transactions.items():
