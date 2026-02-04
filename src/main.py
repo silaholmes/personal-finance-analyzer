@@ -14,8 +14,7 @@ logging.basicConfig(
 with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
     reader = csv.DictReader(csvfile)
     data = list(reader)
-    # print(data[:5])
-    # print(reader.fieldnames)
+
     EXPECTED = {"Date", "Description", "Amount", "Type", "Balance"}
 
     if set(reader.fieldnames) != EXPECTED:
@@ -36,7 +35,6 @@ with open("data/sample.csv", newline='', encoding="utf-8") as csvfile:
                 value = value.strip().lower()
                 value = re.sub(r'[^a-z0-9\s&]', '', value)
             cleaned[key] = value
-            # elif key == "Date":
 
         try:
             cleaned["Amount"] = float(cleaned["Amount"])
@@ -73,6 +71,7 @@ for year in years:
 for category, count in count_category(new_data).items():
     print(f"count of {category}: {count}")
 categories, values =expense_by_category(totals)
+
 bar_chart(categories,values)
 line_chart(categories, values)
 

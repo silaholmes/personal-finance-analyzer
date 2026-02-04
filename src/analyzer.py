@@ -33,10 +33,10 @@ def count_category(transactions):
         dic[row["Category"]] = dic.get(row["Category"], 0) + 1
     return dic
 
-def expense_by_category(transactions):
+def expense_by_category(category_totals):
     categories = []
     values = []
-    for key, value in transactions.items():
+    for key, value in category_totals.items():
         if key == "income":
             continue
         categories.append(key)
