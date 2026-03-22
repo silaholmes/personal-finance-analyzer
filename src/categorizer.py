@@ -13,3 +13,5 @@ def categorize(description):
             if keyword.lower() in description:
                 return category
     return "Other"
+
+print("hello")
